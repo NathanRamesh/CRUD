@@ -1,0 +1,100 @@
+{
+  "user": [
+    {
+      "id": "1",
+      "name": "Durai",
+      "gender": "Male",
+      "email": "durai@gmail.com",
+      "phone": "9876543211",
+      "age": "26"
+    },
+    {
+      "id": "2",
+      "name": "Nathan",
+      "gender": "Male",
+      "email": "nathan@gmail.com",
+      "phone": "9753614510",
+      "age": "25"
+    },
+    {
+      "id": "3",
+      "name": "Sangeetha",
+      "gender": "Female",
+      "email": "sangeetha@gmail.com",
+      "phone": "9815246230",
+      "age": "25"
+    },
+    {
+      "id": "4",
+      "name": "Shruthi",
+      "gender": "Female",
+      "email": "shruthi@gmail.com",
+      "phone": "9878942102",
+      "age": "25"
+    },
+    {
+      "id": "5",
+      "name": "Ramnath",
+      "gender": "Male",
+      "email": "ramnath@gmail.com",
+      "phone": "9876541230",
+      "age": "30"
+    },
+    {
+      "id": "6",
+      "name": "Sathya",
+      "gender": "Female",
+      "email": "sathya@gmail.com",
+      "phone": "9876543210",
+      "age": "35"
+    },
+    {
+      "id": "7",
+      "name": "Naveen",
+      "gender": "Male",
+      "email": "naveen@gmail.com",
+      "phone": "9876543210",
+      "age": "42"
+    },
+    {
+      "id": "8",
+      "name": "Raja",
+      "gender": "Male",
+      "email": "raja@gmail.com",
+      "phone": "9876541230",
+      "age": "36"
+    },
+    {
+      "id": "9",
+      "name": "Suganthi",
+      "gender": "Female",
+      "email": "suganthi@gmail.com",
+      "phone": "9876543210",
+      "age": "25"
+    },
+    {
+      "id": 31,
+      "name": "Ramesh",
+      "gender": "Male",
+      "email": "ramesh@gmail.com",
+      "phone": "9876543210",
+      "age": "55"
+    },
+    {
+      "id": 64,
+      "name": "Tamilmami",
+      "gender": "Female",
+      "email": "tamilmani@gmail.com",
+      "phone": "7894561230",
+      "age": "49"
+    },
+    {
+      "id": 35,
+      "name": "Test",
+      "gender": "Male",
+      "email": "test@gamil.com",
+      "phone": "9876543210",
+      "age": "63"
+    }
+  ]
+}
